@@ -1,0 +1,17 @@
+Yorumlar, Python kodunu açıklamak için kullanılabilir.
+
+Yorumlar, kodu daha okunaklı hale getirmek için kullanılabilir.
+
+Yorumlar, kodu test ederken yürütmeyi önlemek için kullanılabilir.
+
+Yorumlar bir ile başlar #ve Python bunları yok sayar:
+#This is a comment
+print("Hello, World!")
+
+Python, bir değişkene atanmamış dize değişmezlerini yok sayacağından, kodunuza çok satırlı bir dize (üçlü tırnak) ekleyebilir ve yorumunuzu bunun içine yerleştirebilirsiniz:
+"""
+This is a comment
+written in
+more than just one line
+"""
+print("Hello, World!")
