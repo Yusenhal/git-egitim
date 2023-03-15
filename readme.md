@@ -1,4 +1,6 @@
 # Katkıda bulunanlar
 
 [Yusuf Islam TAN](https://github.com/Yusenhal)
-[Mustafa Berkay Könesü](https://github.com/soulfly04)
+[Musa DERELI](https://github.com/DereliMusa)
+[Berkay](https://github.com/soulfly04)
+
